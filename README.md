@@ -220,36 +220,4 @@ Access your application at `http://<EC2-Public-IP>:8080`
 
 ---
 
-## 🎨 Screenshots
-
-![Dashboard Demo](https://user-images.githubusercontent.com/18380025/164559068-1de8811a-faa5-4ec9-a478-81fcae2f6454.gif)
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- Chicago Police Department for providing open crime data
-- Dash/Plotly team for excellent visualization tools
-- Vaex developers for high-performance data processing
-
----
-
-<div align="center">
-
-**Built with ❤️ for safer communities through data-driven insights**
-
-[Report Bug](../../issues) · [Request Feature](../../issues)
-
 </div>
